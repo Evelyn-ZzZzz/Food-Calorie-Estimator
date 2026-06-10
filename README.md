@@ -22,6 +22,8 @@ The system is trained on the **Nutrition5k dataset** (113 food classes) and incl
 
 - **Yihan Zhao** — YOLOv8n Model Training & Development
 - **Wending Zhu** — UI Simulation & User Interface Design
+- **Advik Iyer** — Project Idea Proposal
+- **Chih-Jung Hsu** — Latency Optimization & Performance
 
 ---
 
