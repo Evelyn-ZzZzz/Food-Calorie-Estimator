@@ -1,4 +1,3 @@
-```markdown
 # Food-Calorie-Estimator
 
 **An AI-powered food recognition and calorie estimation system using YOLOv8n**
